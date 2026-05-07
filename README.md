@@ -1,17 +1,17 @@
-# Automotive Sales & Supply Chain Dashboard
+# Automotive Sales Performance Dashboard
 
-##  Project Overview
-Developed a comprehensive Power BI dashboard to analyze sales performance across a regional dealership network. This project focuses on **demand transparency** and **profit optimization**, key pillars of supply chain management.
+## Business Overview
+This project involves the development of a professional Power BI dashboard for a regional car dealership network. The goal was to transform raw sales data into actionable business intelligence to track $29.9M in total profit and 22K units sold.
 
-##  Technical Skills
-* **Data Visualization:** Power BI, UI/UX Dashboard Design.
-* **KPI Tracking:** Profitability Analysis, Unit Volume Tracking, Dealer Benchmarking.
-* **Data Modeling:** Transforming raw sales data into actionable business intelligence.
+## Tech Stack & Skills
+* **Tool:** Power BI Service
+* **Skills:** Data Visualization, UI/UX Design, KPI Tracking, Trend Analysis.
+* **Domain:** Sales & Supply Chain Analytics.
 
-##  Key Insights for Supply Chain
-* **Inventory Optimization:** Identified high-performing models (e.g., Hudson) to assist in production prioritization.
-* **Logistics Performance:** Ranked 10+ dealer nodes by sales volume to identify supply chain bottlenecks.
-* **Revenue Growth:** Tracked $30M in total profit to identify year-over-year growth trends.
+## Executive Summary
+* **KPI Monitoring:** Designed real-time tracking for Total Profit and Unit Volume.
+* **Profitability Analysis:** Visualized profit trends by Model (Beaufort, Hudson, etc.) and Year (2018-2019).
+* **Dealer Benchmarking:** Ranked 10+ dealer nodes by sales efficiency to identify supply chain leaders.
 
 ## 🖥️ Dashboard Preview
 ![Dashboard Screenshot](<img width="1470" height="956" alt="Sales report" src="https://github.com/user-attachments/assets/b59dbaf8-f3ae-449c-861b-725c19e89857" />
